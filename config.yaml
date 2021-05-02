@@ -5,9 +5,9 @@ port:                 # default 12580
 # source list file
 source-files:
   # use local file
-  - ./source.yaml
+  #- ./source.yaml
   # use web file
-  #- https://gitee.com/call_a_cat/dingyue/raw/master/cssource.yaml
+  - https://cdn.jsdelivr.net/gh/892947707/dingyue@main/source.yaml
 
 # ======= 可选项，留空使用default值  =======
 
