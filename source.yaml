@@ -29,4 +29,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml    
+    url: https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml
+- type: clash
+  options:
+    url: https://www.yugogogogo.tk/clash/proxies?c=HK,JP,SG,KR,TW,US
