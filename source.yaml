@@ -1,7 +1,7 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: https://cdn.jsdelivr.net/gh/892947707/dingyue@main/sub.txt
+    url: https://github.com/892947707/dingyue/raw/main/sub.txt
 
 ## 网页模糊抓取
 - type: webfuzz
@@ -29,7 +29,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: 
+    url: https://github.com/ssrsub/ssr/raw/master/Clash.yml
 - type: clash
   options:
-    url: https://www.yugogogogo.tk/clash/proxies
+    url: https://www.yugogogogo.tk/clash/proxies?c=HK,TW,JP,SG,KR,US
