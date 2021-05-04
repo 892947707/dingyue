@@ -7,7 +7,7 @@ server_url:
 # For your local server
 request: https   # http / https
 domain: free.dswang.ga        # default: 127.0.0.1
-port: 443          # default: 80
+port:           # default: 80
 
 cron_interval: 60 # default: 15  minutes
 show_remote_speed: false # default false
