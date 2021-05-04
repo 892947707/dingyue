@@ -30,6 +30,4 @@
 - type: clash
   options:
     url: https://github.com/ssrsub/ssr/raw/master/Clash.yml
-- type: clash
-  options:
-    url: 
+
