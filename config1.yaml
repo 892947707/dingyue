@@ -1,0 +1,19 @@
+# proxypool remote server url. Blank for http://127.0.0.1:8080
+server_url:
+#  - https://example.proxypoolserver.com
+  - https://dsurl.ml/Z5dZes
+
+
+# For your local server
+request: https   # http / https
+domain: free.dswang.ga        # default: 127.0.0.1
+port: 443          # default: 80
+
+cron_interval: 60 # default: 15  minutes
+show_remote_speed: false # default false
+
+healthcheck_timeout:    # default 5
+
+speedtest: true     # default false
+speed_timout:    # default 10
+connection:     # default 5
