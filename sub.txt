@@ -1,7 +1,7 @@
 ##来自https://github.com/ssrsub/ssr/tree/master
 https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
 https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
-https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
 
 ##来自https://github.com/freefq/free/
@@ -12,14 +12,14 @@ https://raw.githubusercontent.com/freefq/free/master/ssr
 https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
 
 ##来自https://github.com/pojiezhiyuanjun/freev2
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0517.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0518.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0519.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0520.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0521.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0513.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0514.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0516.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0602.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0603.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0604.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0606.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0607.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0608.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0609.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0610.txt
 
 ##来自https://github.com/umelabs/node.umelabs.dev
 https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md
