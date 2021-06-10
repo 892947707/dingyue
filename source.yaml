@@ -25,6 +25,3 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
-- type: clash
-  options:
-    url: https://www.yugogogogo.tk/clash/proxies
