@@ -10,15 +10,7 @@
     num: 80
 - type: tgchannel
   options:
-    channel: V2List
-    num: 80
-- type: tgchannel
-  options:
     channel: freeshadowsock
-    num: 80
-- type: tgchannel
-  options:
-    channel: SSRSUB
     num: 80
 
 # clash格式订阅链接
