@@ -3,16 +3,6 @@
   options:
     url: https://raw.githubusercontent.com/892947707/dingyue/main/sub.txt
 
-# tg频道抓取
-- type: tgchannel
-  options:
-    channel: ssrshares
-    num: 80
-- type: tgchannel
-  options:
-    channel: freeshadowsock
-    num: 80
-
 # clash格式订阅链接
 - type: clash
   options:
