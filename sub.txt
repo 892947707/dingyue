@@ -9,14 +9,14 @@ https://raw.githubusercontent.com/freefq/free/master/v2
 https://raw.githubusercontent.com/freefq/free/master/ssr
 
 ##来自https://github.com/pojiezhiyuanjun/freev2
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0824.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0825.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0826.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0827.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0828.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0829.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0830.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0831.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0913.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0914.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0915.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0916.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0917.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0918.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0919.txt
+https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0920.txt
 
 ##来自https://github.com/umelabs/node.umelabs.dev
 https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md
