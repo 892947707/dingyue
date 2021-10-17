@@ -1,24 +1,20 @@
 ##来自https://github.com/ssrsub/ssr/tree/master
-https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
-https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
-https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
-https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
+https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/ss-sub
+https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/ssrsub
+https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/V2Ray
+https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/trojan
 
 ##来自https://github.com/freefq/free/
-https://raw.githubusercontent.com/freefq/free/master/v2
-https://raw.githubusercontent.com/freefq/free/master/ssr
+https://cdn.jsdelivr.net/gh/freefq/free@master/v2
+https://cdn.jsdelivr.net/gh/freefq/free@master/ssr
 
 ##来自https://github.com/pojiezhiyuanjun/freev2
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1008.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1009.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1010.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1011.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1012.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1013.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1014.txt
-https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1015.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1017.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1016.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1015.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1014.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1013.txt
 
 ##来自https://github.com/umelabs/node.umelabs.dev
-https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md
-https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
-https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+https://cdn.jsdelivr.net/gh/UmeLabs/node.umelabs.dev@master/Subscribe/SSR.md
+https://cdn.jsdelivr.net/gh/UmeLabs/node.umelabs.dev@master/Subscribe/v2ray.md
