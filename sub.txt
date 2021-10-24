@@ -9,11 +9,11 @@ https://cdn.jsdelivr.net/gh/freefq/free@master/v2
 https://cdn.jsdelivr.net/gh/freefq/free@master/ssr
 
 ##来自https://github.com/pojiezhiyuanjun/freev2
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1017.txt
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1016.txt
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1015.txt
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1014.txt
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1013.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1023.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1022.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1021.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1020.txt
+https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/1019.txt
 
 ##来自https://github.com/umelabs/node.umelabs.dev
 https://cdn.jsdelivr.net/gh/UmeLabs/node.umelabs.dev@master/Subscribe/SSR.md
