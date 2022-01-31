@@ -1,19 +1,19 @@
 ##来自https://github.com/ssrsub/ssr/tree/master
-https://raw.fastgit.org/ssrsub/ssr/master/V2Ray
-https://raw.fastgit.org/ssrsub/ssr/master/ss-sub
-https://raw.fastgit.org/ssrsub/ssr/master/trojan
+https://cdn.staticaly.com/gh/ssrsub/ssr@master/V2Ray
+https://cdn.staticaly.com/gh/ssrsub/ssr@master/ss-sub
+https://cdn.staticaly.com/gh/ssrsub/ssr@master/trojan
 
 ##来自https://github.com/freefq/free/
-https://raw.fastgit.org/freefq/free/master/v2
-https://raw.fastgit.org/freefq/free/master/ssr
+https://cdn.staticaly.com/gh/freefq/free@master/ssr
+https://cdn.staticaly.com/gh/freefq/free@master/v2
 
 ##来自https://github.com/pojiezhiyuanjun/freev2
-https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0130.txt
-https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0128.txt
-https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0126.txt
-https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0125.txt
-https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0124.txt
+https://cdn.staticaly.com/gh/pojiezhiyuanjun/freev2@master/0131clash.yml
+https://cdn.staticaly.com/gh/pojiezhiyuanjun/freev2@master/0130clash.yml
+https://cdn.staticaly.com/gh/pojiezhiyuanjun/freev2@master/0129clash.yml
+https://cdn.staticaly.com/gh/pojiezhiyuanjun/freev2@master/0128clash.yml
+https://cdn.staticaly.com/gh/pojiezhiyuanjun/freev2@master/0126clash.yml
 
-##来自https://github.com/umelabs/node.umelabs.dev
-https://raw.fastgit.org/UmeLabs/node.umelabs.dev/master/Subscribe/SSR.md
-https://raw.fastgit.org/UmeLabs/node.umelabs.dev/master/Subscribe/v2ray.md
+##来自https://github.com/UmeLabs/node.umelabs.dev/tree/master/Subscribe
+https://cdn.staticaly.com/gh/UmeLabs/node.umelabs.dev@master/Subscribe/SSR.md
+https://cdn.staticaly.com/gh/UmeLabs/node.umelabs.dev@master/Subscribe/v2ray.md
