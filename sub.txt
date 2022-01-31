@@ -1,20 +1,19 @@
 ##来自https://github.com/ssrsub/ssr/tree/master
-https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/ss-sub
-https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/ssrsub
-https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/V2Ray
-https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/trojan
+https://raw.fastgit.org/ssrsub/ssr/master/V2Ray
+https://raw.fastgit.org/ssrsub/ssr/master/ss-sub
+https://raw.fastgit.org/ssrsub/ssr/master/trojan
 
 ##来自https://github.com/freefq/free/
-https://cdn.jsdelivr.net/gh/freefq/free@master/v2
-https://cdn.jsdelivr.net/gh/freefq/free@master/ssr
+https://raw.fastgit.org/freefq/free/master/v2
+https://raw.fastgit.org/freefq/free/master/ssr
 
 ##来自https://github.com/pojiezhiyuanjun/freev2
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/0106.txt
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/0105.txt
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/0104.txt
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/0103.txt
-https://cdn.jsdelivr.net/gh/pojiezhiyuanjun/freev2@master/0102.txt
+https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0130.txt
+https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0128.txt
+https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0126.txt
+https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0125.txt
+https://raw.fastgit.org/pojiezhiyuanjun/freev2/master/0124.txt
 
 ##来自https://github.com/umelabs/node.umelabs.dev
-https://cdn.jsdelivr.net/gh/UmeLabs/node.umelabs.dev@master/Subscribe/SSR.md
-https://cdn.jsdelivr.net/gh/UmeLabs/node.umelabs.dev@master/Subscribe/v2ray.md
+https://raw.fastgit.org/UmeLabs/node.umelabs.dev/master/Subscribe/SSR.md
+https://raw.fastgit.org/UmeLabs/node.umelabs.dev/master/Subscribe/v2ray.md
