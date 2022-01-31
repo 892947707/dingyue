@@ -1,9 +1,9 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: https://cdn.jsdelivr.net/gh/892947707/dingyue@main/sub.txt
+    url: https://raw.fastgit.org/892947707/dingyue/main/sub.txt
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml
+    url: https://raw.fastgit.org/ssrsub/ssr/master/Clash.yml
